@@ -177,6 +177,8 @@ SPECIAL KEYPAD CODE
 0x200       L
 0x400       X
 0x800       Y
+0x1000      Debug
+0x2000      Not-Folded
 0x4000      ZL (N3DS Only)
 0x8000      ZR (N3DS Only)
 0x100000    Touchpad (any position)
